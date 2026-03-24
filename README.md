@@ -45,45 +45,31 @@ The dataset includes:
 
 ### 🔹 Financial Overview
 
-* Actual vs Budget by Year
-* Variance by Department
-
-![Overview](assets/overview.png)
+![Overview](assets/Screenshot%202026-03-24%20190240.png)
 
 ---
 
 ### 🔹 Department Spending Analysis
 
-* Monthly spending trends
-* Department contribution
-
-![Department](assets/department.png)
+![Department](assets/Screenshot%202026-03-24%20190330.png)
 
 ---
 
 ### 🔹 Account Financial Analysis
 
-* Account-level breakdown
-* Actual vs Budget comparison
-
-![Account](assets/account.png)
+![Account](assets/Screenshot%202026-03-24%20190339.png)
 
 ---
 
 ### 🔹 Detailed Financial Data
 
-* Full financial table
-* Variance and performance metrics
-
-![Details](assets/details.png)
+![Details](assets/Screenshot%202026-03-24%20190348.png)
 
 ---
 
 ### 🔹 Financial Insights Summary
 
-* Key business insights and conclusions
-
-![Summary](assets/summary.png)
+![Summary](assets/Screenshot%202026-03-24%20190356.png)
 
 ---
 
@@ -112,7 +98,6 @@ The dataset includes:
 
   * Variance
   * Variance %
-* Built interactive filters and visuals
 
 ---
 
@@ -121,21 +106,9 @@ The dataset includes:
 ```
 financial-dashboard-analysis/
 │── data/
-│   └── AdventureWorksDW2025.bak
-│
 │── report/
-│   └── Data warehouse.pbix
-│
 │── assets/
-│   ├── overview.png
-│   ├── department.png
-│   ├── account.png
-│   ├── details.png
-│   
-│
 │── docs/
-│   └── presentation.pdf
-│
 │── README.md
 ```
 
@@ -145,7 +118,7 @@ financial-dashboard-analysis/
 
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
-3. Explore dashboard using filters and visuals
+3. Explore dashboard using filters
 
 ---
 
@@ -153,8 +126,7 @@ financial-dashboard-analysis/
 
 * Add forecasting models
 * Real-time financial tracking
-* Advanced anomaly detection
-* Integration with cloud data sources
+* Advanced analytics
 
 ---
 
